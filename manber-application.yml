@@ -58,4 +58,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:9000/eureka #注册的协议地址访问名称
 manber:
-  name: lisi
+  name: abc
